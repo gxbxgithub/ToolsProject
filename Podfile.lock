@@ -1,0 +1,19 @@
+PODS:
+  - ToolsProject (0.0.1)
+
+DEPENDENCIES:
+  - ToolsProject (from `https://github.com/gxbxgithub/ToolsProject.git`)
+
+EXTERNAL SOURCES:
+  ToolsProject:
+    :git: https://github.com/gxbxgithub/ToolsProject.git
+
+CHECKOUT OPTIONS:
+  ToolsProject:
+    :commit: 14f29ebe1dfa824d60ae920d2c904f235a889999
+    :git: https://github.com/gxbxgithub/ToolsProject.git
+
+SPEC CHECKSUMS:
+  ToolsProject: d9ec439992d7f7d51cc683d2bf0e4692ddf1b8f5
+
+COCOAPODS: 0.39.0

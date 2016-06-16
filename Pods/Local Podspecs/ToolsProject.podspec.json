@@ -1,0 +1,16 @@
+{
+  "name": "ToolsProject",
+  "version": "0.0.1",
+  "summary": "A short description of ToolsProject.",
+  "homepage": "https://github.com/gxbxgithub/ToolsProject",
+  "license": "MIT",
+  "authors": {
+    "Guoxiaobo": "gxbxemail@163.com"
+  },
+  "source": {
+    "git": "https://github.com/gxbxgithub/ToolsProject.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "ToolsProject/GJ/*.{h,m}",
+  "exclude_files": "Classes/Exclude"
+}
